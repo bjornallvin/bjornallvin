@@ -1,6 +1,9 @@
 ### Hi! I'm Björn 👋
 
-![My GitHub stats](https://github-readme-stats.vercel.app/api?username=bjornallvin&count_private=true&hide=stars)
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=bjornallvin&count_private=true&hide=stars&show_icons=true&theme=synthwave)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bjornallvin&layout=compact)](https://github.com/bjornallvin/github-readme-stats)
 
 <!--
 **bjornallvin/bjornallvin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
